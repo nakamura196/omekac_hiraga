@@ -1,0 +1,3046 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "Kashiwa Library in the University of Tokyo.",
+    "description": "&#8220;新艦建造費調書 昭和四年三月,&#8221; <em>平賀譲デジタルアーカイブ</em>, accessed June 30, 2020, <span class=\"citation-url\">http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/show/id/61160101</span>.",
+    "label": "新艦建造費調書 昭和四年三月",
+    "license": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/notice",
+    "logo": "http://www.lib.u-tokyo.ac.jp/sites/default/files/styles/max_350_215/public/eyecatching/2017-08/dc-hiraga.png",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "新艦建造費調書 昭和四年三月"
+        },
+        {
+            "label": "Date",
+            "value": "1929-03-01"
+        },
+        {
+            "label": "Format",
+            "value": "85枚"
+        },
+        {
+            "label": "Identifier",
+            "value": "61160101"
+        },
+        {
+            "label": "備考",
+            "value": "極秘印あり:1929/3"
+        },
+        {
+            "label": "カード目録",
+            "value": "〔新艦建造費調書(昭和4年)〕"
+        },
+        {
+            "label": "カテゴリ",
+            "value": "軍艦建造:鋼材"
+        },
+        {
+            "label": "登録年",
+            "value": "2007"
+        },
+        {
+            "label": "所蔵",
+            "value": "東京大学柏図書館"
+        }
+    ],
+    "related": {
+        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/show/id/61160101",
+        "format": "text/html"
+    },
+    "sequences": [
+        {
+            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p1",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19087/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19087",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-001_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19087/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19087",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p2",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19088/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19088",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-002_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19088/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19088",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p3",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19089/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19089",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-003_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19089/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19089",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p4",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19090/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19090",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-004_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19090/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19090",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p5",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19091/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19091",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-005_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19091/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19091",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p6",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19092/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19092",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-006_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19092/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19092",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p7",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19093/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19093",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-007_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19093/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19093",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p8",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19094/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19094",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-008_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19094/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19094",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p9",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19095/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19095",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-009_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19095/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19095",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p10",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19096/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19096",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-010_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19096/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19096",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p11",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19097/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19097",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-011_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19097/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19097",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p12",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19098/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19098",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-012_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19098/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19098",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p13",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19099/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19099",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-013_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19099/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19099",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p14",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19100/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19100",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-014_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19100/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19100",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p15",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19101/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19101",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-015_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19101/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19101",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0016-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p16",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19102/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19102",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-016_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19102/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19102",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0017-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p17",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19103/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19103",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-017_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19103/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19103",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0018-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p18",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19104/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19104",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-018_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19104/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19104",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0019-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p19",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19105/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19105",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-019_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19105/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19105",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0020-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p20",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19106/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19106",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-020_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19106/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19106",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p21",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0021-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p21",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19107/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19107",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-021_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19107/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19107",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p22",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0022-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p22",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19108/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19108",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-022_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19108/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19108",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p23",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0023-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p23",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19109/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19109",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-023_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19109/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19109",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p24",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0024-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p24",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19110/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19110",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-024_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19110/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19110",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p25",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0025-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p25",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19111/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19111",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-025_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19111/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19111",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p26",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0026-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p26",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19112/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19112",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-026_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19112/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19112",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p27",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0027-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p27",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19113/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19113",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-027_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19113/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19113",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p28",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0028-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p28",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19114/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19114",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-028_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19114/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19114",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p29",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0029-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p29",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19115/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19115",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-029_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19115/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19115",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p30",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0030-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p30",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19116/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19116",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-030_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19116/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19116",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p31",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0031-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p31",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19117/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19117",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-031_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19117/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19117",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p32",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0032-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p32",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19118/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19118",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-032_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19118/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19118",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p33",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0033-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p33",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19119/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19119",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-033_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19119/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19119",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p34",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0034-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p34",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19120/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19120",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-034_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19120/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19120",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p35",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0035-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p35",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19121/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19121",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-035_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19121/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19121",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p36",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0036-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p36",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19122/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19122",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-036_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19122/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19122",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p37",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0037-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p37",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19123/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19123",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-037_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19123/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19123",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p38",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0038-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p38",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19124/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19124",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-038_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19124/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19124",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p39",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0039-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p39",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19125/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19125",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-039_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19125/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19125",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p40",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0040-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p40",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19126/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19126",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-040_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19126/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19126",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p41",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0041-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p41",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19127/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19127",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-041_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19127/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19127",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p42",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0042-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p42",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19128/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19128",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-042_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19128/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19128",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p43",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0043-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p43",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19129/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19129",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-043_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19129/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19129",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p44",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0044-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p44",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19130/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19130",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-044_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19130/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19130",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p45",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0045-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p45",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19131/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19131",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-045_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19131/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19131",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p46",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0046-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p46",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19132/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19132",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-046_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19132/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19132",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p47",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0047-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p47",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19133/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19133",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-047_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19133/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19133",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p48",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0048-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p48",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19134/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19134",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-048_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19134/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19134",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p49",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0049-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p49",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19135/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19135",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-049_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19135/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19135",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p50",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0050-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p50",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19136/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19136",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-050_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19136/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19136",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p51",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0051-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p51",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19137/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19137",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-051_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19137/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19137",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p52",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0052-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p52",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19138/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19138",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-052_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19138/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19138",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p53",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0053-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p53",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19139/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19139",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-053_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19139/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19139",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p54",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0054-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p54",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19140/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19140",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-054_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19140/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19140",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p55",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0055-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p55",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19141/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19141",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-055_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19141/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19141",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p56",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0056-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p56",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19142/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19142",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-056_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19142/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19142",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p57",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0057-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p57",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19143/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19143",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-057_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19143/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19143",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p58",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0058-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p58",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19144/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19144",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-057_002.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19144/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19144",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p59",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0059-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p59",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19145/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19145",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-058_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19145/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19145",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p60",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0060-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p60",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19146/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19146",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-059_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19146/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19146",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p61",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0061-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p61",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19147/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19147",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-060_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19147/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19147",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p62",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0062-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p62",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19148/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19148",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-061_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19148/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19148",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p63",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0063-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p63",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19149/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19149",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-062_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19149/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19149",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p64",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0064-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p64",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19150/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19150",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-062_002.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19150/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19150",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p65",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0065-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p65",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19151/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19151",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-063_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19151/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19151",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p66",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0066-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p66",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19152/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19152",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-063_002.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19152/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19152",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p67",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0067-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p67",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19153/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19153",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-064_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19153/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19153",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p68",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0068-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p68",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19154/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19154",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-065_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19154/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19154",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p69",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0069-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p69",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19155/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19155",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-066_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19155/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19155",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p70",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0070-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p70",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19156/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19156",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-067_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19156/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19156",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p71",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0071-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p71",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19157/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19157",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-067_002.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19157/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19157",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p72",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0072-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p72",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19158/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19158",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-068_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19158/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19158",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p73",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0073-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p73",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19159/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19159",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-069_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19159/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19159",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p74",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0074-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p74",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19160/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19160",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-070_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19160/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19160",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p75",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0075-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p75",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19161/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19161",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-071_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19161/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19161",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p76",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0076-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p76",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19162/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19162",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-072_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19162/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19162",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p77",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0077-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p77",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19163/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19163",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-073_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19163/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19163",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p78",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0078-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p78",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19164/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19164",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-074_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19164/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19164",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p79",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0079-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p79",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19165/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19165",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-075_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19165/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19165",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p80",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0080-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p80",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19166/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19166",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-076_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19166/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19166",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p81",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0081-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p81",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19167/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19167",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-077_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19167/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19167",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p82",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0082-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p82",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19168/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19168",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-078_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19168/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19168",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p83",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0083-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p83",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19169/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19169",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-079_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19169/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19169",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p84",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0084-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p84",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19170/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19170",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-080_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19170/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19170",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                },
+                {
+                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p85",
+                    "@type": "sc:Canvas",
+                    "height": 2047,
+                    "images": [
+                        {
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/annotation/p0085-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif/98034559/canvas/p85",
+                            "resource": {
+                                "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19171/full/800%2C569/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 2047,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19171",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2880
+                            }
+                        }
+                    ],
+                    "label": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2014/images/large/61160101/61160101-081_001.jpg",
+                    "thumbnail": {
+                        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19171/full/200%2C142/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19171",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2880
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19088/full/200%2C142/0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/iiif-img/19088",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+    }
+}
